@@ -1,9 +1,6 @@
 /* Diagnostic Styling */
-*{
-  outline: 3px dotted gray;
-}
 
-/* temp background color */
-body { 
-    background: lightpink;
-  }
+/* Do Not below this line */
+body {
+  height: 100vh;
+}
