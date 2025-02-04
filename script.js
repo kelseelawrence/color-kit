@@ -3,7 +3,7 @@
 https://codepen.io/manikoth/pen/NPKVOxm.js
 
 // Get Stuff
-const elBody = document.querySelector('body');
+// const elBody = document.querySelector('body');
 
 // Set variable for HTML `body` element
 const elBody = document.querySelector("body");
