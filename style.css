@@ -1,0 +1,9 @@
+/* Diagnostic Styling */
+*{
+  outline: 3px dotted gray;
+}
+
+/* temp background color */
+body { 
+    background: lightpink;
+  }
