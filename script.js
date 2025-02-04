@@ -1,6 +1,4 @@
-// ✅ Add External ColorKit Library
-// Color Kit Library
-https://codepen.io/manikoth/pen/NPKVOxm.js
+
 
 // Get Stuff
 // const elBody = document.querySelector('body');
